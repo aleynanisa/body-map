@@ -1,0 +1,6 @@
+{
+  "name": "Kineo3D - Interactive 3D Muscle Anatomy & Exercise Guide",
+  "description": "Explore human musculoskeletal anatomy in full interactive 3D, inspect targeted muscle groups, and discover curated exercise recommendations with form cues and workout planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
